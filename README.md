@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nayeem_xtreme" target="blank"><img src="https://img.shields.io/twitter/follow/nayeem_xtreme?logo=twitter&style=for-the-badge" alt="nayeem_xtreme" /></a> </p>
 
-- 🔭 I’m currently working on Spring Rain IT Limited [Aurae](https://github.com/aucorp)
+- 🔭 I’m currently working on Vivasoft Limited [klikit](https://github.com/klikit)
 
 - 🌱 I’m currently learning **NextJS, Apollo GraphQL**
 
