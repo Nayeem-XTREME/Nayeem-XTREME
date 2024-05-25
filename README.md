@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on Vivasoft Limited [klikit](https://github.com/klikit)
 
-- 🌱 I’m currently learning **NextJS, Apollo GraphQL**
-
-- 💬 Ask me about **React, Next JS, Gatsby JS**
+- 💬 Ask me about **React.JS, Next.JS, Gatsby.JS**
 
 - 📫 How to reach me **nayeem.io@outlook.com**
 
